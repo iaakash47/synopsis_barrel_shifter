@@ -46,7 +46,7 @@ CMOS transmission gates may be used in place of the simple pass transistor switc
 
 ## Methodology
 
- ## synopsis Schematic Window 
+ ## Synopsis Schematic Window 
  ![sch](https://user-images.githubusercontent.com/88897605/156158124-7667c5bd-f55d-428e-bead-2136a126eb2e.png)
 
 
