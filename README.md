@@ -47,7 +47,8 @@ CMOS transmission gates may be used in place of the simple pass transistor switc
 ## Methodology
 
  ## synopsis Schematic Window 
- ![schematic window](https://user-images.githubusercontent.com/88897605/156105487-22871bf2-2215-4d02-9ac0-118ac516609b.png)
+ ![sch](https://user-images.githubusercontent.com/88897605/156158124-7667c5bd-f55d-428e-bead-2136a126eb2e.png)
+
 
 
 ## Schematic 
@@ -63,7 +64,7 @@ CMOS transmission gates may be used in place of the simple pass transistor switc
 ![modelfiles](https://user-images.githubusercontent.com/88897605/156105681-95fc28ea-c87f-42a2-b6dc-9917a71b48d5.png)
 
 # Analyses
-![analyses](https://user-images.githubusercontent.com/88897605/156105734-c878f25e-101e-468c-b1dd-3480eecee226.png)
+![tran](https://user-images.githubusercontent.com/88897605/156158951-f35a6ea2-b2e4-4771-8874-9e5afefe83f3.png)
 
 
 # Netlist  
@@ -71,14 +72,16 @@ CMOS transmission gates may be used in place of the simple pass transistor switc
 
 
 ## Initial Transitent Analysis
-![analyses](https://user-images.githubusercontent.com/88897605/156105836-3b8410c5-b328-4e85-8b10-273fe22d028d.png)
+![tran](https://user-images.githubusercontent.com/88897605/156159075-71b34d8f-c1f6-467b-8ece-2b74006f8e90.png)
+
 
 # Plot ecpressions
 ![plot_expression](https://user-images.githubusercontent.com/88897605/156106757-76410da2-82b3-4b3d-a262-abf85ba7df24.png)
 
 
 # Waveforms 
-![IMG_20220301_100930](https://user-images.githubusercontent.com/88897605/156105987-7d1cf0b9-170e-460d-845b-9b7d6378481a.jpg)
+![IMG_20220301_164411](https://user-images.githubusercontent.com/88897605/156159519-8ecb5224-6167-4305-9190-e0ce2673e179.jpg)
+
 
 
 # References
