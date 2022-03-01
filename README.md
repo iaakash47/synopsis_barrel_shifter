@@ -1,5 +1,5 @@
 # 8x4 Barrel Shifter using NMOS Pass Transistor Logic in 28nm Technology node
-* This project focuses on design of a 8x4 right Barrel Shifter using NMOS pass transistor logic using synopsis custom complierin 28nm Technology node with operating voltage of 1.8V .The project is build using commercial Tools like Synopsis custom complier . Refer following website for more details on Barrel Shifter:https://en.wikipedia.org/wiki/Barrel_shifter
+* This project focuses on design of a 8x4 right Barrel Shifter using NMOS pass transistor logic using synopsis custom complier in 28nm Technology node with operating voltage of 1.8V .The project is build using commercial Tools like Synopsis custom complier . Refer following website for more details on Barrel Shifter:https://en.wikipedia.org/wiki/Barrel_shifter
  
 # Table of Contents
 
@@ -50,11 +50,9 @@ CMOS transmission gates may be used in place of the simple pass transistor switc
  ![sch](https://user-images.githubusercontent.com/88897605/156158124-7667c5bd-f55d-428e-bead-2136a126eb2e.png)
 
 
-
 ## Schematic 
 - Construct the "8 * 4 Barrel Shifter using NMOS" as shown in the figure below using synopsis tool
 ![IMG_20220301_095249](https://user-images.githubusercontent.com/88897605/156161468-a0a8c050-20a2-4b40-bbbe-d123b17ca5c7.jpg)
-
 
 
 # Circuit Schematic
