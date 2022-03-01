@@ -53,7 +53,8 @@ CMOS transmission gates may be used in place of the simple pass transistor switc
 
 ## Schematic 
 - Construct the "8 * 4 Barrel Shifter using NMOS" as shown in the figure below using synopsis tool
-![barrel_shifter_synopsis](https://user-images.githubusercontent.com/88897605/156105519-1ad51a0d-5444-4195-9ab2-288693f915d6.png)
+![IMG_20220301_095249](https://user-images.githubusercontent.com/88897605/156161468-a0a8c050-20a2-4b40-bbbe-d123b17ca5c7.jpg)
+
 
 
 # Circuit Schematic
