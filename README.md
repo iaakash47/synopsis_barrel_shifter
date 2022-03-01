@@ -99,6 +99,8 @@ Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 
 Synopsys team
 
+Sammer Durgoji NIT Karnataka
+
 
 
 
